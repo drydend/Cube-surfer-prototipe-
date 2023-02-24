@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c8c863be7fe60a4286f159f82d650d2, type: 3}
+  m_Name: Level Generator Config
+  m_EditorClassIdentifier: 
+  _levelChunks:
+  - {fileID: 3576526341613882874, guid: a50ae06ff4a53934cb20fe79ce81d744, type: 3}
+  - {fileID: 7852545543553796251, guid: 4a87ec16ee4632748b6b0294bbde926c, type: 3}
+  - {fileID: 8914361784780697526, guid: 931044d56f273f242beccf118b9c5d40, type: 3}
+  - {fileID: 8710496168100094101, guid: 4645f9084438ba145bb9d65f4a524fd6, type: 3}
+  - {fileID: 6055273640891746249, guid: c564bb0fefe312a478b46cdc5eb3630f, type: 3}
+  _startChunk: {fileID: 1859144201724630033, guid: 14f40b02a48d4b248bd9568431d5711c,
+    type: 3}
+  _newChunkSpawnDistance: 250
+  _maxNumberOfChunks: 15
+  _startNumberOfChunks: 2
